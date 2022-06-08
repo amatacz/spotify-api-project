@@ -1,0 +1,352 @@
+[
+    {
+        "name": "hope is a dangerous thing for a woman like me to have - but I have it",
+        "album": "Norman Fucking Rockwell!",
+        "artist": "Lana Del Rey",
+        "release_date": "2019-08-30",
+        "duration_in_mins": 5.41
+    },
+    {
+        "name": "Waiting Game",
+        "album": "Goddess (Deluxe)",
+        "artist": "BANKS",
+        "release_date": "2014-01-01",
+        "duration_in_mins": 3.46
+    },
+    {
+        "name": "Billie Bossa Nova",
+        "album": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "release_date": "2021-07-30",
+        "duration_in_mins": 3.28
+    },
+    {
+        "name": "I'm Not In Love",
+        "album": "Blood",
+        "artist": "Kelsey Lu",
+        "release_date": "2019-04-19",
+        "duration_in_mins": 6.91
+    },
+    {
+        "name": "Me in 20 Years",
+        "album": "gr\u00e6",
+        "artist": "Moses Sumney",
+        "release_date": "2020-05-15",
+        "duration_in_mins": 3.68
+    },
+    {
+        "name": "Wishing on a Star",
+        "album": "Wishing on a Star",
+        "artist": "COSIMA",
+        "release_date": "2021-04-30",
+        "duration_in_mins": 3.31
+    },
+    {
+        "name": "Believe",
+        "album": "Believe",
+        "artist": "Okay Kaya",
+        "release_date": "2019-03-29",
+        "duration_in_mins": 3.37
+    },
+    {
+        "name": "Chemtrails Over The Country Club",
+        "album": "Chemtrails Over The Country Club",
+        "artist": "Lana Del Rey",
+        "release_date": "2021-03-19",
+        "duration_in_mins": 4.52
+    },
+    {
+        "name": "NEEDSUMBODY",
+        "album": "NEEDSUMBODY",
+        "artist": "ABRA",
+        "release_date": "2017-07-21",
+        "duration_in_mins": 4.33
+    },
+    {
+        "name": "Come on Doom, Let\u2019s Party",
+        "album": "This World Is Too _____ for You",
+        "artist": "Emily Wells",
+        "release_date": "2019-03-22",
+        "duration_in_mins": 3.6
+    },
+    {
+        "name": "Poor Fake",
+        "album": "Blood",
+        "artist": "Kelsey Lu",
+        "release_date": "2019-04-19",
+        "duration_in_mins": 4.69
+    },
+    {
+        "name": "Time",
+        "album": "KiCk i",
+        "artist": "Arca",
+        "release_date": "2020-06-26",
+        "duration_in_mins": 2.76
+    },
+    {
+        "name": "The Pines",
+        "album": "Modus Vivendi",
+        "artist": "070 Shake",
+        "release_date": "2020-01-17",
+        "duration_in_mins": 3.56
+    },
+    {
+        "name": "Dreams",
+        "album": "When I Get Home",
+        "artist": "Solange",
+        "release_date": "2019-03-01",
+        "duration_in_mins": 2.47
+    },
+    {
+        "name": "Wait For Now - Mary Lattimore Rework",
+        "album": "To Believe (Remixes)",
+        "artist": "The Cinematic Orchestra",
+        "release_date": "2020-03-06",
+        "duration_in_mins": 6.85
+    },
+    {
+        "name": "If You Lie Down With Me",
+        "album": "Blue Banisters",
+        "artist": "Lana Del Rey",
+        "release_date": "2021-10-22",
+        "duration_in_mins": 4.42
+    },
+    {
+        "name": "Fruit",
+        "album": "Rose",
+        "artist": "ABRA",
+        "release_date": "2015-06-22",
+        "duration_in_mins": 5.68
+    },
+    {
+        "name": "KINDRED I",
+        "album": "Blood",
+        "artist": "Kelsey Lu",
+        "release_date": "2019-04-19",
+        "duration_in_mins": 1.74
+    },
+    {
+        "name": "Reverie",
+        "album": "Arca",
+        "artist": "Arca",
+        "release_date": "2017-04-07",
+        "duration_in_mins": 3.21
+    },
+    {
+        "name": "Braid - Mmph Remix",
+        "album": "Reshaped",
+        "artist": "Perfume Genius",
+        "release_date": "2018-06-08",
+        "duration_in_mins": 3.98
+    },
+    {
+        "name": "No Time To Die",
+        "album": "No Time To Die",
+        "artist": "Billie Eilish",
+        "release_date": "2020-02-13",
+        "duration_in_mins": 4.04
+    },
+    {
+        "name": "Heaven",
+        "album": "R&B?",
+        "artist": "Tierra Whack",
+        "release_date": "2021-12-16",
+        "duration_in_mins": 2.99
+    },
+    {
+        "name": "Watercolor Eyes - From \u201cEuphoria\u201d An HBO Original Series",
+        "album": "Watercolor Eyes (From \u201cEuphoria\u201d An HBO Original Series)",
+        "artist": "Lana Del Rey",
+        "release_date": "2022-01-21",
+        "duration_in_mins": 3.53
+    },
+    {
+        "name": "Feel",
+        "album": "Rose",
+        "artist": "ABRA",
+        "release_date": "2015-06-22",
+        "duration_in_mins": 4.12
+    },
+    {
+        "name": "Drifting Out",
+        "album": "Drifting Out EP",
+        "artist": "Little Dragon",
+        "release_date": "2021-12-07",
+        "duration_in_mins": 3.66
+    },
+    {
+        "name": "Prada",
+        "album": "KICK ii",
+        "artist": "Arca",
+        "release_date": "2021-11-30",
+        "duration_in_mins": 2.72
+    },
+    {
+        "name": "Morrow",
+        "album": "Modus Vivendi",
+        "artist": "070 Shake",
+        "release_date": "2020-01-17",
+        "duration_in_mins": 4.11
+    },
+    {
+        "name": "Halley's Comet",
+        "album": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "release_date": "2021-07-30",
+        "duration_in_mins": 3.91
+    },
+    {
+        "name": "Coming Back (feat. SZA)",
+        "album": "Friends That Break Your Heart",
+        "artist": "James Blake",
+        "release_date": "2021-10-08",
+        "duration_in_mins": 3.27
+    },
+    {
+        "name": "Dreams",
+        "album": "Dreams",
+        "artist": "COSIMA",
+        "release_date": "2017-05-12",
+        "duration_in_mins": 3.94
+    },
+    {
+        "name": "Arcadia",
+        "album": "Arcadia",
+        "artist": "Lana Del Rey",
+        "release_date": "2021-09-08",
+        "duration_in_mins": 4.39
+    },
+    {
+        "name": "Roses",
+        "album": "Rose",
+        "artist": "ABRA",
+        "release_date": "2015-06-22",
+        "duration_in_mins": 3.63
+    },
+    {
+        "name": "Wildest Moments",
+        "album": "Devotion",
+        "artist": "Jessie Ware",
+        "release_date": "2012",
+        "duration_in_mins": 3.7
+    },
+    {
+        "name": "Rakata",
+        "album": "KICK ii",
+        "artist": "Arca",
+        "release_date": "2021-11-30",
+        "duration_in_mins": 2.53
+    },
+    {
+        "name": "You're Still The One",
+        "album": "You're Still The One",
+        "artist": "Okay Kaya",
+        "release_date": "2020-11-20",
+        "duration_in_mins": 2.75
+    },
+    {
+        "name": "my future",
+        "album": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "release_date": "2021-07-30",
+        "duration_in_mins": 3.5
+    },
+    {
+        "name": "cellophane",
+        "album": "MAGDALENE",
+        "artist": "FKA twigs",
+        "release_date": "2019-11-08",
+        "duration_in_mins": 3.4
+    },
+    {
+        "name": "Thunder",
+        "album": "Blue Banisters",
+        "artist": "Lana Del Rey",
+        "release_date": "2021-10-22",
+        "duration_in_mins": 4.32
+    },
+    {
+        "name": "VEGAS",
+        "album": "PRINCESS",
+        "artist": "ABRA",
+        "release_date": "2016-07-15",
+        "duration_in_mins": 5.35
+    },
+    {
+        "name": "Close To You (Moonlighting)",
+        "album": "Close To You (Moonlighting)",
+        "artist": "COSIMA",
+        "release_date": "2019-09-13",
+        "duration_in_mins": 2.23
+    },
+    {
+        "name": "Famous Last Words",
+        "album": "Famous Last Words",
+        "artist": "James Blake",
+        "release_date": "2021-09-13",
+        "duration_in_mins": 4.27
+    },
+    {
+        "name": "Free",
+        "album": "Half The Story",
+        "artist": "Emelie Hollow",
+        "release_date": "2021-08-27",
+        "duration_in_mins": 2.46
+    },
+    {
+        "name": "Happier Than Ever",
+        "album": "Happier Than Ever",
+        "artist": "Billie Eilish",
+        "release_date": "2021-07-30",
+        "duration_in_mins": 4.98
+    },
+    {
+        "name": "KLK",
+        "album": "KiCk i",
+        "artist": "Arca",
+        "release_date": "2020-06-26",
+        "duration_in_mins": 3.79
+    },
+    {
+        "name": "Bound (with Blood Orange)",
+        "album": "Letter Blue",
+        "artist": "Wet",
+        "release_date": "2021-10-22",
+        "duration_in_mins": 3.67
+    },
+    {
+        "name": "Atoms",
+        "album": "Rose",
+        "artist": "ABRA",
+        "release_date": "2015-06-22",
+        "duration_in_mins": 4.83
+    },
+    {
+        "name": "Writer In The Dark",
+        "album": "Melodrama",
+        "artist": "Lorde",
+        "release_date": "2017-06-16",
+        "duration_in_mins": 3.61
+    },
+    {
+        "name": "Say What You Will",
+        "album": "Say What You Will",
+        "artist": "James Blake",
+        "release_date": "2021-07-22",
+        "duration_in_mins": 4.68
+    },
+    {
+        "name": "Lust For Life (with The Weeknd)",
+        "album": "Lust For Life",
+        "artist": "Lana Del Rey",
+        "release_date": "2017-07-21",
+        "duration_in_mins": 4.4
+    },
+    {
+        "name": "Comic Sans",
+        "album": "Surviving Is The New Living",
+        "artist": "Okay Kaya",
+        "release_date": "2020-08-14",
+        "duration_in_mins": 2.82
+    }
+]
